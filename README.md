@@ -1,5 +1,4 @@
-# 💫 About Me:
-¡Hola! 👋<br><br>Soy Javier, estudiante de segundo año de Ingeniería Civil en Informática apasionado por el desarrollo web y la programación en C. Actualmente, estoy inmerso en un viaje de aprendizaje donde estoy explorando diferentes tecnologías y lenguajes de programación.<br><br>📘 Lo que estoy haciendo actualmente: Cursando mi segundo año de Ingeniería Civil en Informática, donde estoy adquiriendo conocimientos sólidos en informática y ciencias de la computación.<br><br>🔍 Busco ayuda acerca de: Desarrollo web y programación en C. Me encantaría conectar con personas que tengan experiencia en estas áreas y puedan compartir sus conocimientos y consejos.<br><br>📚 Actualmente estoy aprendiendo: C, HTML, CSS, JavaScript y Python. Mi lista de aprendizaje incluye también C++ y algunos frameworks en desarrollo web para ampliar mis habilidades.<br><br>
+
 
 
 ## 🌐 Socials!:
